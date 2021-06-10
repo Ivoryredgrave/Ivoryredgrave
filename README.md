@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ivoryredgrave
 - 👀 I’m interested in videogame development
-- 🌱 I’m currently learning C++
+- 🌱 I'm developing a rhythmic game in ue4
 - 📫 How to reach me ivoryredgrave@gmail.com
 
 <!---
